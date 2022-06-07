@@ -2,5 +2,5 @@
 
 ---
 
-<h3 align="center">Усердно работаю над проектом:</h3>
+<!-- <h3 align="center">Усердно работаю над проектом:</h3> -->
 <h4 align="center"><img src="https://i.gifer.com/2GU.gif" height="300px"/></h4>
