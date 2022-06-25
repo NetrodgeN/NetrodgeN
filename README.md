@@ -1,4 +1,4 @@
-<h1 align="center"> Привет, это страница <a href="https://netrodgen.github.io/cv">Yaroslava</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center"> Привет, это страница <a href="https://netrodgen.github.io/cv">Yaroslav'a</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ---
 
